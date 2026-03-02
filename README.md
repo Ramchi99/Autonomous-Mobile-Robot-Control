@@ -1,4 +1,4 @@
-# Autonomous_Mobile_Robot_Control
+# Autonomous-Mobile-Robot-Control
 
 *This repository contains the coursework and final projects for the Autonomous Robot Systems course at NTU Singapore, developed collaboratively by **Simon Ramchandani**, **Matteo Diez**, and **Kaspar Janssen**.*
 
